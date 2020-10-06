@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b23e9d-f0e4-4e83-a699-2830a2bd72be" name="Default Changelist" comment="" />
+    <list default="true" id="def20b6e-483f-433d-b683-5e1987f6c8cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Challenge 2/.idea/.idea.Challenge 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge 2/.idea/.idea.Challenge 2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +30,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RepeatBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" />
-        <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/SpawnManagerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RepeatBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1iVw5PzOCKamRNy6fd8SXFHmw9Z" />
+  <component name="ProjectId" id="1iW1KlXwp7BGqQ4fkBKAQNP2bbu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -70,12 +79,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="67b23e9d-f0e4-4e83-a699-2830a2bd72be" name="Default Changelist" comment="" />
-      <created>1602005887176</created>
+      <changelist id="def20b6e-483f-433d-b683-5e1987f6c8cf" name="Default Changelist" comment="" />
+      <created>1602008473913</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602005887176</updated>
-      <workItem from="1602005912037" duration="2039000" />
+      <updated>1602008473913</updated>
+      <workItem from="1602008478886" duration="6690000" />
     </task>
     <servers />
   </component>
